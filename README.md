@@ -1,10 +1,11 @@
 # CopyPasteTaxes
 
 Your taxes should be a single text file that is easy
-to read. Filling out your taxes each year should mostly
-just be updating a few lines in that text/file, and
-copy pasting the whole thing into IRS.gov. Experts who
-understand the deductions should be able to provide
+to read. You should be able to use a nice spreadsheet
+to do it or a plain old notepad. Filling out your taxes
+each year should mostly just be updating a few lines in
+that text/file, and copy pasting the whole thing into IRS.gov.
+Experts who understand the deductions should be able to provide
 snippets that you can copy/paste into your taxes.
 
 The whole thing should take just a few minutes per
