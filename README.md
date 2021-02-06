@@ -33,9 +33,9 @@ Here's the plan.
 
 [x] Build a dumb little working demo
 
-[] Make a screencast
+[x] Make a screencast
 
-[] Launch a $50K crowdfunding campaign to see if people care
+[x] Launch a $50K crowdfunding campaign to see if people care
 
 [] If enough people care, build the thing.
 
