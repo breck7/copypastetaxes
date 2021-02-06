@@ -40,3 +40,7 @@ Here's the plan.
 [] If enough people care, build the thing.
 
 [] If not, return to other things.
+
+## Alternatives Considered
+
+- https://sites.google.com/view/incometaxspreadsheet/home
