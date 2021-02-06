@@ -12,6 +12,10 @@ The whole thing should take just a few minutes per
 year, and you should be able to do it yourself, for
 free, if you so choose.
 
+## Support the Crowdfunding campaign!
+
+[If we get to $50,000, this will become a real thing](https://www.indiegogo.com/projects/copypastetaxes/#/)
+
 ## Community
 
 - Twitter: https://twitter.com/copypastetaxes
