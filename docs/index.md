@@ -1,5 +1,9 @@
 # Homepage
 
+## Support the Crowdfunding Campaign:
+
+[If we get to $50,000, this will become a real thing](https://www.indiegogo.com/projects/copypastetaxes/#/)
+
 ## Community
 
 - [Twitter](https://twitter.com/copypastetaxes)
