@@ -43,6 +43,7 @@ Here's the plan.
 
 ## Alternatives Considered & Related Links
 
+- https://github.com/thegrims/UsTaxes
 - https://sites.google.com/view/incometaxspreadsheet/home
 - https://www.freetaxusa.com/
 - https://docassemble.org/ (looks really cool, just would be a lot better with Tree Notation under the hood and not YAML)
