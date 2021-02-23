@@ -155,8 +155,186 @@ html,body,div,span,h1,h2,h3,h4,h5,h6,p {
 </div>
  <div class="scrollPageContainer">
   <div class="scrollPage">
+   <div class="scrollArticleCell"><h1 id="questions-to-figure-out"><a href="#questions-to-figure-out">Questions to Figure Out</a></h1>
+<div class="scrollArticleDate">February 22, 2021 — </div>
+
+<p>
+ At this stage there are more questions than answers.
+
+ 
+</p>
+
+<h4>What are the main compile targets?</h4>
+
+<p>
+ Another way to ask this question—what are all the forms
+
+ 
+ that the IRS accepts from citizens that the citizen has to
+
+ 
+ fill out?
+
+ 
+</p>
+
+<p>
+ These forms can be thought of as the "compile targets".
+
+ 
+ CopyPasteTaxes will be a Tree Language that "compiles" 
+
+ 
+ (aka generates) these final forms.
+
+ 
+</p>
+
+<p>
+ These forms may be PDF. Or maybe XML. Or JSON. Or something
+
+ 
+ else. I'm not sure what the IRS accepts. This is something
+
+ 
+ to figure out.
+
+ 
+</p>
+
+<p>
+ It will be good to see how many types of forms there are,
+
+ 
+ who files what, and how many are filed each year (and
+
+ 
+ trends).
+
+ 
+</p>
+
+<h4>What are the supporting forms the IRS accepts?</h4>
+
+<p>
+ These would be things like W2's and 1099's. How many of
+
+ 
+ these types of forms are there?
+
+ 
+</p>
+
+<p>
+ How many does the average citizen send in each year?
+
+ 
+</p>
+
+<p>
+ My guess is these forms we just need to understand in terms
+
+ 
+ of what fields we'd need to extract for the language for
+
+ 
+ copying into the compile targets.
+
+ 
+</p>
+
+<h4>What are the checklists?</h4>
+
+<p>
+ Who has made some great checklists on every workflow that
+
+ 
+ can happen with the IRS?
+
+ 
+</p>
+
+<h4>What are the formulas and business logic?</h4>
+
+<p>
+ This one will probably be a real snoozer. What are the all
+
+ 
+ calcuations necessary to help figure out the right numbers
+
+ 
+ to put in the compile targets?
+
+ 
+</p>
+
+<h4>How are things different for personal vs business taxes?</h4>
+
+<p>
+ Should CopyPasteTaxes only do personal taxes? What about
+
+ 
+ for self-employed people? It may be hard to only do
+
+ 
+ personal, as that might exclude self-employed people, who
+
+ 
+ may be the ones who most need CopyPasteTaxes.
+
+ 
+</p>
+
+<h4>How can CopyPasteTaxes generate state tax returns?</h4>
+
+<p>
+ Federal is first, but then how can we make it so we compile
+
+ 
+ to other state level targets as well?
+
+ 
+</p>
+
+<h4>How can CopyPasteTaxes help with self-employment taxes?</h4>
+
+<p>
+ Should CopyPasteTaxes help with itemized expenses? What
+
+ 
+ would that entail? Would a sub DSL for receipts make sense?
+
+ 
+</p>
+
+<h4>What are the key dates to be aware of?</h4>
+
+<p>
+ Everyone knows April 15th. What are the other dates to have
+
+ 
+ on the calendar?
+
+ 
+</p>
+
+<p class="scrollArticleSourceLink"><a href="https://github.com/breck7/copypastetaxes/tree/master//questions.dd">Article source</a></p></div>
+   <div class="scrollArticleCell"><h1 id="alternatives-to-copypastetaxes-and-related-links"><a href="#alternatives-to-copypastetaxes-and-related-links">Alternatives to CopyPasteTaxes and Related Links</a></h1>
+<div class="scrollArticleDate">February 9, 2021 — </div>
+
+<p>Here is a list of alternatives considered and related links.</p>
+
+<ul>
+ <li>https://github.com/thegrims/UsTaxes</li>
+ <li>https://sites.google.com/view/incometaxspreadsheet/home</li>
+ <li>https://www.freetaxusa.com/</li>
+ <li>https://docassemble.org/ (looks really cool, just would be a lot better with Tree Notation under the hood and not YAML)</li>
+ <li>https://www.propublica.org/series/the-turbotax-trap (Reading about the industry)</li>
+ <li>https://openfisca.org/en/</li>
+ <li>https://github.com/MLanguage/mlang</li>
+</ul><p class="scrollArticleSourceLink"><a href="https://github.com/breck7/copypastetaxes/tree/master//alternatives.dd">Article source</a></p></div>
    <div class="scrollArticleCell"><h1 id="crowdfunding-campaign-launches"><a href="#crowdfunding-campaign-launches">Crowdfunding Campaign Launches</a></h1>
-<div class="scrollArticleDate">Invalid Date — </div>
+<div class="scrollArticleDate">February 6, 2021 — </div>
 
 <p>
  Today I launched a <a
@@ -178,7 +356,7 @@ html,body,div,span,h1,h2,h3,h4,h5,h6,p {
 
 <p class="scrollArticleSourceLink"><a href="https://github.com/breck7/copypastetaxes/tree/master//crowdfunding.dd">Article source</a></p></div>
    <div class="scrollArticleCell"><h1 id="subreddit-twitter-and-github-launched"><a href="#subreddit-twitter-and-github-launched">Subreddit, Twitter, and GitHub launched</a></h1>
-<div class="scrollArticleDate">Invalid Date — </div>
+<div class="scrollArticleDate">February 6, 2021 — </div>
 
 <p>
  In addition to the <a
@@ -207,7 +385,7 @@ html,body,div,span,h1,h2,h3,h4,h5,h6,p {
  
 </p><p class="scrollArticleSourceLink"><a href="https://github.com/breck7/copypastetaxes/tree/master//community.dd">Article source</a></p></div>
    <div class="scrollArticleCell"><h1 id="announcing-copypastetaxes"><a href="#announcing-copypastetaxes">Announcing CopyPasteTaxes</a></h1>
-<div class="scrollArticleDate">Invalid Date — </div>
+<div class="scrollArticleDate">February 6, 2021 — </div>
 
 <p>
  Your taxes should be a single text file that is easy
@@ -269,20 +447,6 @@ html,body,div,span,h1,h2,h3,h4,h5,h6,p {
 <p>✅ Launch a $50K crowdfunding campaign to see if people care</p>
 <p>🔲 If enough people care, build the thing.</p>
 <p>🔲 If not, return to other things.</p><p class="scrollArticleSourceLink"><a href="https://github.com/breck7/copypastetaxes/tree/master//announcing-copypastetaxes.dd">Article source</a></p></div>
-   <div class="scrollArticleCell"><h1 id="alternatives-to-copypastetaxes-and-related-links"><a href="#alternatives-to-copypastetaxes-and-related-links">Alternatives to CopyPasteTaxes and Related Links</a></h1>
-<div class="scrollArticleDate">February 9, 2021 — </div>
-
-<p>Here is a list of alternatives considered and related links.</p>
-
-<ul>
- <li>https://github.com/thegrims/UsTaxes</li>
- <li>https://sites.google.com/view/incometaxspreadsheet/home</li>
- <li>https://www.freetaxusa.com/</li>
- <li>https://docassemble.org/ (looks really cool, just would be a lot better with Tree Notation under the hood and not YAML)</li>
- <li>https://www.propublica.org/series/the-turbotax-trap (Reading about the industry)</li>
- <li>https://openfisca.org/en/</li>
- <li>https://github.com/MLanguage/mlang</li>
-</ul><p class="scrollArticleSourceLink"><a href="https://github.com/breck7/copypastetaxes/tree/master//alternatives.dd">Article source</a></p></div>
    <div class="scrollArticleCell"><h1 id="about-copypastetaxes"><a href="#about-copypastetaxes">About CopyPasteTaxes</a></h1>
 
 <p>
