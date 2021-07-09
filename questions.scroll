@@ -4,7 +4,7 @@ date 2021-02-22
 paragraph
  At this stage there are more questions than answers.
 
-title4 What are the main compile targets?
+section What are the main compile targets?
 
 paragraph
  Another way to ask this question—what are all the forms
@@ -26,7 +26,7 @@ paragraph
  who files what, and how many are filed each year (and
  trends).
 
-title4 What are the supporting forms the IRS accepts?
+section What are the supporting forms the IRS accepts?
 
 paragraph
  These would be things like W2's and 1099's. How many of
@@ -40,20 +40,20 @@ paragraph
  of what fields we'd need to extract for the language for
  copying into the compile targets.
 
-title4 What are the checklists?
+section What are the checklists?
 
 paragraph
  Who has made some great checklists on every workflow that
  can happen with the IRS?
 
-title4 What are the formulas and business logic?
+section What are the formulas and business logic?
 
 paragraph
  This one will probably be a real snoozer. What are the all
  calcuations necessary to help figure out the right numbers
  to put in the compile targets?
 
-title4 How are things different for personal vs business taxes?
+section How are things different for personal vs business taxes?
 
 paragraph
  Should CopyPasteTaxes only do personal taxes? What about
@@ -61,19 +61,19 @@ paragraph
  personal, as that might exclude self-employed people, who
  may be the ones who most need CopyPasteTaxes.
 
-title4 How can CopyPasteTaxes generate state tax returns?
+section How can CopyPasteTaxes generate state tax returns?
 
 paragraph
  Federal is first, but then how can we make it so we compile
  to other state level targets as well?
 
-title4 How can CopyPasteTaxes help with self-employment taxes?
+section How can CopyPasteTaxes help with self-employment taxes?
 
 paragraph
  Should CopyPasteTaxes help with itemized expenses? What
  would that entail? Would a sub DSL for receipts make sense?
 
-title4 What are the key dates to be aware of?
+section What are the key dates to be aware of?
 
 paragraph
  Everyone knows April 15th. What are the other dates to have

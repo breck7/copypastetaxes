@@ -1,3 +1,0 @@
-# CopyPasteTaxes
-
-https://copypastetaxes.com/

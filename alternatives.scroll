@@ -1,0 +1,14 @@
+title Alternatives to CopyPasteTaxes and Related Links
+date 2021-02-09
+
+paragraph
+ Here is a list of alternatives considered and related links.
+
+list
+ - github.com/ustaxes/UsTaxes🔗github.com/ustaxes/UsTaxes
+ - sites.google.com/view/incometaxspreadsheet/home🔗sites.google.com/view/incometaxspreadsheet/home
+ - www.freetaxusa.com🔗www.freetaxusa.com
+ - docassemble.org🔗docassemble.org (looks really cool, just would be a lot better with Tree Notation under the hood and not YAML)
+ - www.propublica.org/series/the-turbotax-trap🔗www.propublica.org/series/the-turbotax-trap (Reading about the industry)
+ - openfisca.org/en🔗openfisca.org/en
+ - github.com/MLanguage/mlang🔗github.com/MLanguage/mlang
