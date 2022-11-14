@@ -2,6 +2,7 @@ title Announcing CopyPasteTaxes
 date 2021-02-06 1
 
 * Your taxes should be a single text file that is easy to read. You should be able to use a nice spreadsheet to do it or a plain old notepad. Filling out your taxes each year should mostly just be updating a few lines in that text/file, and copy pasting the whole thing into IRS.gov. Experts who understand the deductions should be able to provide snippets that you can copy/paste into your taxes.
+ dateline
 
 * The whole thing should take just a few minutes per year, and you should be able to do it yourself, for free, if you so choose.
 
@@ -21,3 +22,4 @@ date 2021-02-06 1
 - 🔲 If enough people care, build the thing.
 - 🔲 If not, return to other things.
 import settings.scroll
+groups index

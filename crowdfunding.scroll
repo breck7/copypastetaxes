@@ -2,7 +2,9 @@ title Crowdfunding Campaign Launches
 date 2021-02-06 3
 
 * Today I launched a crowdfunding campaign as one way to gauge interest in the CopyPasteTaxes project.
- https://www.indiegogo.com/projects/copypastetaxes
+ https://www.indiegogo.com/projects/copypastetaxes crowdfunding campaign
+ dateline
 
 * If we can get to $50,000, this will become a real thing.
 import settings.scroll
+groups index

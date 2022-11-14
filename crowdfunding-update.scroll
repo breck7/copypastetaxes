@@ -3,6 +3,7 @@ date 07/08/2021
 
 * It looks like a single person committed one dollar to the crowdfunding campaign on Indiegogo, although at this time I cannot confirm that it was not just a software bug. According to my earlier checklist the proper course of action now then is to "return to other things".
  link ./announcing-copypastetaxes.html checklist
+ dateline
 
 ## Fuck it, keep going?
 
@@ -16,3 +17,4 @@ date 07/08/2021
 
 * So despite the atrocious Indiegogo go, I have decided to invest at least a few more hours into building something that you can click some buttons.
 import settings.scroll
+groups index
