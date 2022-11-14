@@ -1,0 +1,13 @@
+{
+  "name": "copypastetaxes",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/breck7/copypastetaxes.git"
+  },
+  "author": "Breck Yunits",
+  "homepage": "https://copypastetaxes.com",
+  "dependencies": {
+    "scroll-cli": "^43.0.0"
+  }
+}

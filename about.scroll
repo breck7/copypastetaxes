@@ -1,6 +1,4 @@
 title About CopyPasteTaxes
 
-paragraph
- This is a community project to build a public domain open
- source tax engine so all Americans can do their taxes using
- simple copy and paste.
+* This is a community project to build a public domain open source tax engine so all Americans can do their taxes using simple copy and paste.
+import settings.scroll
