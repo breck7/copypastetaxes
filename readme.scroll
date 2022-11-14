@@ -17,3 +17,6 @@ title CopyPasteTaxes
 
 import settings.scroll
 permalink index.html
+openGraphImage https://copypastetaxes.com/originalTaxReturn.jpeg
+image https://www.archives.gov/historical-docs/todays-doc/?dod-date=415
+ caption https://www.archives.gov/historical-docs/todays-doc/?dod-date=415
