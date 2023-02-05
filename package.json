@@ -8,6 +8,6 @@
   "author": "Breck Yunits",
   "homepage": "https://copypastetaxes.com",
   "dependencies": {
-    "scroll-cli": "^43.0.0"
+    "scroll-cli": "^43.1.1"
   }
 }

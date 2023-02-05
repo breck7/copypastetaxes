@@ -4,7 +4,9 @@ Object.defineProperty(exports, "__esModule", {
   value: true
 });
 exports.default = void 0;
+
 var _deepArray = require("./helpers/deep-array");
+
 class Plugin {
   constructor(plugin, options, key, externalDependencies = (0, _deepArray.finalize)([])) {
     this.key = void 0;
@@ -26,8 +28,7 @@ class Plugin {
     this.options = options;
     this.externalDependencies = externalDependencies;
   }
-}
-exports.default = Plugin;
-0 && 0;
 
-//# sourceMappingURL=plugin.js.map
+}
+
+exports.default = Plugin;

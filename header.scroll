@@ -1,0 +1,11 @@
+importOnly
+
+description The official Scroll of the CopyPasteTaxes project.
+git https://github.com/breck7/copypastetaxes
+viewSourceUrl https://github.com/breck7/copypastetaxes/tree/master/
+email copypastetaxes@pd.pub
+openGraphImage https://copypastetaxes.com/originalTaxReturn.jpeg
+
+metaTags
+scrollCssTag
+scrollHeader

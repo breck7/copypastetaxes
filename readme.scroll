@@ -1,4 +1,7 @@
+import header.scroll
+
 title CopyPasteTaxes Readme
+startColumns 4
 
 * Website
  https://copypastetaxes.com
@@ -15,4 +18,4 @@ title CopyPasteTaxes Readme
 - https://openfisca.org/en
 - https://github.com/MLanguage/mlang
 
-import settings.scroll
+import footer.scroll

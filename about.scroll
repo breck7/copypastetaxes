@@ -1,8 +1,11 @@
-title About CopyPasteTaxes
-
-* Let's build a public domain open source tax engine so all Americans can do their taxes using simple copy and paste.
-import settings.scroll
+import header.scroll
 groups index
+title About CopyPasteTaxes
+startColumns 4
+* Let's build a public domain open source tax engine so all Americans can do their taxes using simple copy and paste.
 
 image originalTaxReturn.jpeg
- caption The original US Income Tax Return was a single page -- 100x less complicated than our current one. Scientists say our brains have not gotten 100x larger. https://www.archives.gov/historical-docs/todays-doc/?dod-date=415
+ caption The original US Income Tax Return was a single page -- 100x less complicated than our current one. Scientists say our brains have not gotten 100x larger.
+  https://www.archives.gov/historical-docs/todays-doc/?dod-date=415 original US Income Tax Return
+
+import footer.scroll
