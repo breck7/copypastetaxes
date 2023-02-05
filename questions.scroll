@@ -1,10 +1,14 @@
+import header.scroll
 title Questions to Figure Out
+groups index
+startColumns 4
+
 date 2021-02-22
 
 * At this stage there are more questions than answers.
  dateline
 
-question What are the main compile targets?
+? What are the main compile targets?
 
 * Another way to ask this question—what are all the forms that the IRS accepts from citizens that the citizen has to fill out?
 
@@ -14,7 +18,7 @@ question What are the main compile targets?
 
 * It will be good to see how many types of forms there are, who files what, and how many are filed each year (and trends).
 
-question What are the supporting forms the IRS accepts?
+? What are the supporting forms the IRS accepts?
 
 * These would be things like W2's and 1099's. How many of these types of forms are there?
 
@@ -22,28 +26,28 @@ question What are the supporting forms the IRS accepts?
 
 * My guess is these forms we just need to understand in terms of what fields we'd need to extract for the language for copying into the compile targets.
 
-question What are the checklists?
+? What are the checklists?
 
 * Who has made some great checklists on every workflow that can happen with the IRS?
 
-question What are the formulas and business logic?
+? What are the formulas and business logic?
 
 * This one will probably be a real snoozer. What are the all calcuations necessary to help figure out the right numbers to put in the compile targets?
 
-question How are things different for personal vs business taxes?
+? How are things different for personal vs business taxes?
 
 * Should CopyPasteTaxes only do personal taxes? What about for self-employed people? It may be hard to only do personal, as that might exclude self-employed people, who may be the ones who most need CopyPasteTaxes.
 
-question How can CopyPasteTaxes generate state tax returns?
+? How can CopyPasteTaxes generate state tax returns?
 
 * Federal is first, but then how can we make it so we compile to other state level targets as well?
 
-question How can CopyPasteTaxes help with self-employment taxes?
+? How can CopyPasteTaxes help with self-employment taxes?
 
 * Should CopyPasteTaxes help with itemized expenses? What would that entail? Would a sub DSL for receipts make sense?
 
-question What are the key dates to be aware of?
+? What are the key dates to be aware of?
 
 * Everyone knows April 15th. What are the other dates to have on the calendar?
-import settings.scroll
-groups index
+
+import footer.scroll

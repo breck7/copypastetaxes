@@ -1,5 +1,9 @@
+import header.scroll
+groups index
 title Subreddit, Twitter, and GitHub launched
 date 2021-02-06 2
+
+startColumns 4
 
 * In addition to the GitHub, today I created a Subreddit and Twitter for the CopyPasteTaxes project.
  dateline
@@ -8,5 +12,5 @@ date 2021-02-06 2
  https://twitter.com/copypastetaxes Twitter
 
 * I am confident in the technology and believe if we can build a community we can solve this problem for the American people.
-import settings.scroll
-groups index
+
+import footer.scroll
