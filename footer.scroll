@@ -1,3 +1,4 @@
 importOnly
 endColumns
-scrollFooter
+pageFooter
+keyboardNav

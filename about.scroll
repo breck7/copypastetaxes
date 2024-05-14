@@ -1,7 +1,7 @@
 import header.scroll
 groups index
 title About CopyPasteTaxes
-startColumns 4
+mediumColumns 1
 * Let's build a public domain open source tax engine so all Americans can do their taxes using simple copy and paste.
 
 image originalTaxReturn.jpeg
