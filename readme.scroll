@@ -1,7 +1,7 @@
 import header.scroll
 
 title CopyPasteTaxes Readme
-startColumns 4
+thinColumns 2
 
 * Website
  https://copypastetaxes.com

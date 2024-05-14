@@ -1,8 +1,9 @@
+import header.scroll
 title Crowdfunding Campaign a Huge Failure
 date 07/08/2021
 groups index
 
-startColumns 4
+mediumColumns 1
 
 * It looks like a single person committed one dollar to the crowdfunding campaign on Indiegogo, although at this time I cannot confirm that it was not just a software bug. According to my earlier checklist the proper course of action now then is to "return to other things".
  link ./announcing-copypastetaxes.html checklist

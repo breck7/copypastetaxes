@@ -1,7 +1,7 @@
 import header.scroll
 groups index
 title Crowdfunding Campaign Launches
-startColumns 4
+thinColumns 1
 date 2021-02-06 3
 
 * Today I launched a crowdfunding campaign as one way to gauge interest in the CopyPasteTaxes project.
